@@ -45,7 +45,7 @@
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5594984110714&text=Olá,%20peguei%20seu%20Número%20no%20github.)](https://api.whatsapp.com/send?phone=+5594984451203&text=Olá,%20peguei%20seu%20Número%20no%20github.)
 
 ## Sobre Mim
-Sou programador há mais de 5 anos e há três estou atuando como um verdadeiro profissional. Tenho habilidades com PHP e Laravel, bem como uma boa noção de JavaScript e SQL. Gosto de entender como as coisas por trás dos sites e aplicativos funcionam no dia a dia. Além de escrever código, também tenho conhecimento em infraestrutura para garantir que tudo funcione perfeitamente.
+Sou programador há mais de 5 anos e há três estou atuando como um verdadeiro profissional. Tenho habilidades com PHP e Laravel, bem como uma boa noção de Node . Gosto de entender como as coisas por trás dos sites e aplicativos funcionam no dia a dia. Além de escrever código, também tenho conhecimento em infraestrutura para garantir que tudo funcione perfeitamente.
 
 Sempre estou em busca de aprimorar meus conhecimentos e entregar um trabalho de qualidade. 
 
@@ -58,9 +58,9 @@ Sempre estou em busca de aprimorar meus conhecimentos e entregar um trabalho de 
 
 ## Experiência Técnica
 - **HM:** Experiências  em projetos de desenvolvimento com Laravel.
-- **Ageof Marketing:** Experiências diversos  projetos .
+- **Ageof:** Experiências diversos  projetos .
 - **Evosis:** Trabalho com diversas tecnologias incluindo MariaDB, Livewire, Tailwind CSS, APIS, entre outras.
-- **Gerenciador de TI:** Experiência gerencial, mantendo a qualidade e liderança em ambientes tecnológicos.
+
 
 ## Habilidades e Competências
 - **Linguagens/Frameworks:** PHP, Laravel, JavaScript, MySQL, Blade HP, AJAX, API REST, CSS, HTML, Bootstrap, JQuery, Livewire, Tailwind CSS.
