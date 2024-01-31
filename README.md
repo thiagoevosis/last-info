@@ -1,20 +1,21 @@
 # Thiago Silva
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400" />
-
+<p align="left"> 
 ### Olá, meu nome é Thiago  Silva!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Thiago%20Silva&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub" />
 
-
+</p>
 ## 🦄 Linguagens e Tecnologias:
-
+<p align="left">
 #### Back-End com PHP e Laravel:
 ![PHP](https://img.shields.io/badge/PHP-%5E8.2-blue.svg?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%5EF8.X-FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=Composer&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-4BC0C8?style=flat-square&logo=phpunit&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-lightgrey?logo=mysql&style=flat-square&logoColor=white)
+</p>
 
 #### Front-End com Laravel:
 ![Blade](https://img.shields.io/badge/Blade-%5EF8.X-2088FF.svg?style=flat-square&logo=laravel&logoColor=white)
