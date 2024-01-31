@@ -8,14 +8,14 @@
 
 
 ## 🦄 Linguagens e Tecnologias:
-<p align="left">
+
 #### Back-End com PHP e Laravel:
 ![PHP](https://img.shields.io/badge/PHP-%5E8.2-blue.svg?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%5EF8.X-FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=Composer&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-4BC0C8?style=flat-square&logo=phpunit&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-lightgrey?logo=mysql&style=flat-square&logoColor=white)
-</p>
+
 
 #### Front-End com Laravel:
 ![Blade](https://img.shields.io/badge/Blade-%5EF8.X-2088FF.svg?style=flat-square&logo=laravel&logoColor=white)
