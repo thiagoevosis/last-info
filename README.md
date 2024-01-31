@@ -1,13 +1,19 @@
-# Thiago Silva
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400" />
 <p align="left"> 
-### Olá, meu nome é Thiago  Silva!
+   ### Olá, meu nome é {THIAGO SILVA}! 
+   
+   <br>
+   <br>
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Thiago%20Silva&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub" />
-
+<img src="https://img.shields.io/static/v1?label=Overview&message=Thiago Silva&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 </p>
-## 🦄 Linguagens e Tecnologias:
+<p align="justify">
+  <center><strong>Sobre Mim</strong></center> <br>
+  Sou um programador com mais de 5 anos de experiência, sendo os últimos três dedicados de maneira profissional à área. Durante esse tempo, tenho colocado a mão na massa, desenvolvendo códigos de qualidade. Minha expertise se estende especialmente para PHP e Laravel, além de possuir habilidades sólidas em JavaScript e Mysql.
+
+  Minha abordagem vai além da teoria; sou alguém que transforma conceitos em ações concretas. Estou sempre em busca de aprendizado contínuo e comprometido em entregar um trabalho de qualidade. Se você procura alguém que não só compreende os desafios, mas que também os supera, estou à disposição para contribuir de maneira efetiva em seus projetos.
+</p>
 
 #### Back-End com PHP e Laravel:
 ![PHP](https://img.shields.io/badge/PHP-%5E8.2-blue.svg?style=flat-square&logo=php&logoColor=white)
