@@ -1,12 +1,12 @@
 # Thiago Silva
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400" />
-<p align="left"> 
+
 ### Olá, meu nome é Thiago  Silva!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Thiago%20Silva&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub" />
 
-</p>
+
 ## 🦄 Linguagens e Tecnologias:
 <p align="left">
 #### Back-End com PHP e Laravel:
